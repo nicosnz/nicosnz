@@ -1,6 +1,11 @@
-# 💫 Sobre Mi:
-🎓 Desarrollador en formación | Apasionado por la tecnología y el aprendizaje continuo<br><br>¡Hola! Soy Emanuel Oly Sánchez, estudiante de segundo año de Ingeniería de Software con 19 años y una gran motivación por crecer como desarrollador. Me encanta participar en proyectos colaborativos, explorar nuevas herramientas y enfrentar desafíos técnicos que me impulsen a mejorar día a día.<br><br>💻 Actualmente estoy trabajando con tecnologías modernas como Angular, Tailwind CSS y SQL Server, y me interesa especialmente el mundo del blockchain y los contratos inteligentes. Creo en el poder de la descentralización para transformar sistemas tradicionales y me esfuerzo por aplicar ese conocimiento en soluciones reales.<br><br>🚀 Este perfil es mi espacio para compartir lo que aprendo, contribuir a proyectos que me apasionan y conectar con otros desarrolladores que también creen en el impacto de la tecnología. Si tienes una idea, un reto o simplemente quieres intercambiar conocimientos, ¡aquí estoy!
+# 💫 About Me:
+🎓 Developer in Training | Passionate About Technology and Lifelong Learning
 
+Hi! I'm Emanuel Oly Sánchez, a 19-year-old Software Engineering student in my second year, driven by a strong motivation to grow as a developer. I love collaborating on projects, exploring new tools, and tackling technical challenges that push me to improve every day.
+
+💻 I'm currently working with modern technologies like Angular, Tailwind CSS, and SQL Server. I'm especially interested in the world of blockchain and smart contracts. I believe in the power of decentralization to transform traditional systems, and I strive to apply that knowledge to real-world solutions.
+
+🚀 This profile is my space to share what I learn, contribute to projects I'm passionate about, and connect with other developers who also believe in the impact of technology. If you have an idea, a challenge, or just want to exchange knowledge—I'm here!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanchez_emanuelll) 
