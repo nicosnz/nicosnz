@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mi:
 🎓 Desarrollador en formación | Apasionado por la tecnología y el aprendizaje continuo<br><br>¡Hola! Soy Emanuel Oly Sánchez, estudiante de segundo año de Ingeniería de Software con 19 años y una gran motivación por crecer como desarrollador. Me encanta participar en proyectos colaborativos, explorar nuevas herramientas y enfrentar desafíos técnicos que me impulsen a mejorar día a día.<br><br>💻 Actualmente estoy trabajando con tecnologías modernas como Angular, Tailwind CSS y SQL Server, y me interesa especialmente el mundo del blockchain y los contratos inteligentes. Creo en el poder de la descentralización para transformar sistemas tradicionales y me esfuerzo por aplicar ese conocimiento en soluciones reales.<br><br>🚀 Este perfil es mi espacio para compartir lo que aprendo, contribuir a proyectos que me apasionan y conectar con otros desarrolladores que también creen en el impacto de la tecnología. Si tienes una idea, un reto o simplemente quieres intercambiar conocimientos, ¡aquí estoy!
 
 
