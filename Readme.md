@@ -1,8 +1,12 @@
 # nicosnz~$:
 > _whoami_
+
+
 software engineering student // 20
 
 > _stack_
+
+
 fastapi · django · spring boot · .net · react · typescript
 
 
