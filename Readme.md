@@ -1,4 +1,4 @@
-# nicosnz~$:
+# nicosnz:~$
 > _whoami_
 
 
